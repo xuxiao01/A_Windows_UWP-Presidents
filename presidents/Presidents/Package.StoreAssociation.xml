@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StoreAssociation xmlns="http://schemas.microsoft.com/appx/2010/storeassociation">
+  <Publisher>CN=6B0E04BB-E44B-43CE-89DF-DBA5BC33E3A2</Publisher>
+  <PublisherDisplayName>vsclient</PublisherDisplayName>
+  <GeneratePackageHash>http://www.w3.org/2001/04/xmlenc#sha256</GeneratePackageHash>
+  <SupportedLocales>
+    <Language Code="af" InMinimumRequirementSet="true" />
+    <Language Code="af-za" InMinimumRequirementSet="true" />
+    <Language Code="am" InMinimumRequirementSet="true" />
+    <Language Code="am-et" InMinimumRequirementSet="true" />
+    <Language Code="ar" InMinimumRequirementSet="true" />
+    <Language Code="ar-ae" InMinimumRequirementSet="true" />
+    <Language Code="ar-bh" InMinimumRequirementSet="true" />
+    <Language Code="ar-dz" InMinimumRequirementSet="true" />
+    <Language Code="ar-eg" InMinimumRequirementSet="true" />
+    <Language Code="ar-iq" InMinimumRequirementSet="true" />
+    <Language Code="ar-jo" InMinimumRequirementSet="true" />
+    <Language Code="ar-kw" InMinimumRequirementSet="true" />
+    <Language Code="ar-lb" InMinimumRequirementSet="true" />
+    <Language Code="ar-ly" InMinimumRequirementSet="true" />
+    <Language Code="ar-ma" InMinimumRequirementSet="true" />
+    <Language Code="ar-om" InMinimumRequirementSet="true" />
+    <Language Code="ar-qa" InMinimumRequirementSet="true" />
+    <Language Code="ar-sa" InMinimumRequirementSet="true" />
+    <Language Code="ar-sy" InMinimumRequirementSet="true" />
+    <Language Code="ar-tn" InMinimumRequirementSet="true" />
+    <Language Code="ar-ye" InMinimumRequirementSet="true" />
+    <Language Code="as" InMinimumRequirementSet="true" />
+    <Language Code="as-in" InMinimumRequirementSet="true" />
+    <Language Code="az" InMinimumRequirementSet="true" />
+    <Language Code="az-arab" InMinimumRequirementSet="true" />
+    <Language Code="az-arab-az" InMinimumRequirementSet="true" />
+    <Language Code="az-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="az-cyrl-az" InMinimumRequirementSet="true" />
+    <Language Code="az-latn" InMinimumRequirementSet="true" />
+    <Language Code="az-latn-az" InMinimumRequirementSet="true" />
+    <Language Code="be" InMinimumRequirementSet="true" />
+    <Language Code="be-by" InMinimumRequirementSet="true" />
+    <Language Code="bg" InMinimumRequirementSet="true" />
+    <Language Code="bg-bg" InMinimumRequirementSet="true" />
+    <Language Code="bn" InMinimumRequirementSet="true" />
+    <Language Code="bn-bd" InMinimumRequirementSet="true" />
+    <Language Code="bn-in" InMinimumRequirementSet="true" />
+    <Language Code="bs" InMinimumRequirementSet="true" />
+    <Language Code="bs-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="bs-cyrl-ba" InMinimumRequirementSet="true" />
+    <Language Code="bs-latn" InMinimumRequirementSet="true" />
+    <Language Code="bs-latn-ba" InMinimumRequirementSet="true" />
+    <Language Code="ca" InMinimumRequirementSet="true" />
+    <Language Code="ca-es" InMinimumRequirementSet="true" />
+    <Language Code="ca-es-valencia" InMinimumRequirementSet="true" />
+    <Language Code="chr-cher" InMinimumRequirementSet="true" />
+    <Language Code="chr-cher-us" InMinimumRequirementSet="true" />
+    <Language Code="chr-latn" InMinimumRequirementSet="true" />
+    <Language Code="cs" InMinimumRequirementSet="true" />
+    <Language Code="cs-cz" InMinimumRequirementSet="true" />
+    <Language Code="cy" InMinimumRequirementSet="true" />
+    <Language Code="cy-gb" InMinimumRequirementSet="true" />
+    <Language Code="da" InMinimumRequirementSet="true" />
+    <Language Code="da-dk" InMinimumRequirementSet="true" />
+    <Language Code="de" InMinimumRequirementSet="true" />
+    <Language Code="de-at" InMinimumRequirementSet="true" />
+    <Language Code="de-ch" InMinimumRequirementSet="true" />
+    <Language Code="de-de" InMinimumRequirementSet="true" />
+    <Language Code="de-li" InMinimumRequirementSet="true" />
+    <Language Code="de-lu" InMinimumRequirementSet="true" />
+    <Language Code="el" InMinimumRequirementSet="true" />
+    <Language Code="el-gr" InMinimumRequirementSet="true" />
+    <Language Code="en" InMinimumRequirementSet="true" />
+    <Language Code="en-011" InMinimumRequirementSet="true" />
+    <Language Code="en-014" InMinimumRequirementSet="true" />
+    <Language Code="en-018" InMinimumRequirementSet="true" />
+    <Language Code="en-021" InMinimumRequirementSet="true" />
+    <Language Code="en-029" InMinimumRequirementSet="true" />
+    <Language Code="en-053" InMinimumRequirementSet="true" />
+    <Language Code="en-au" InMinimumRequirementSet="true" />
+    <Language Code="en-bz" InMinimumRequirementSet="true" />
+    <Language Code="en-ca" InMinimumRequirementSet="true" />
+    <Language Code="en-gb" InMinimumRequirementSet="true" />
+    <Language Code="en-hk" InMinimumRequirementSet="true" />
+    <Language Code="en-id" InMinimumRequirementSet="true" />
+    <Language Code="en-ie" InMinimumRequirementSet="true" />
+    <Language Code="en-in" InMinimumRequirementSet="true" />
+    <Language Code="en-jm" InMinimumRequirementSet="true" />
+    <Language Code="en-kz" InMinimumRequirementSet="true" />
+    <Language Code="en-mt" InMinimumRequirementSet="true" />
+    <Language Code="en-my" InMinimumRequirementSet="true" />
+    <Language Code="en-nz" InMinimumRequirementSet="true" />
+    <Language Code="en-ph" InMinimumRequirementSet="true" />
+    <Language Code="en-pk" InMinimumRequirementSet="true" />
+    <Language Code="en-sg" InMinimumRequirementSet="true" />
+    <Language Code="en-tt" InMinimumRequirementSet="true" />
+    <Language Code="en-us" InMinimumRequirementSet="true" />
+    <Language Code="en-vn" InMinimumRequirementSet="true" />
+    <Language Code="en-za" InMinimumRequirementSet="true" />
+    <Language Code="en-zw" InMinimumRequirementSet="true" />
+    <Language Code="es" InMinimumRequirementSet="true" />
+    <Language Code="es-019" InMinimumRequirementSet="true" />
+    <Language Code="es-419" InMinimumRequirementSet="true" />
+    <Language Code="es-ar" InMinimumRequirementSet="true" />
+    <Language Code="es-bo" InMinimumRequirementSet="true" />
+    <Language Code="es-cl" InMinimumRequirementSet="true" />
+    <Language Code="es-co" InMinimumRequirementSet="true" />
+    <Language Code="es-cr" InMinimumRequirementSet="true" />
+    <Language Code="es-do" InMinimumRequirementSet="true" />
+    <Language Code="es-ec" InMinimumRequirementSet="true" />
+    <Language Code="es-es" InMinimumRequirementSet="true" />
+    <Language Code="es-gt" InMinimumRequirementSet="true" />
+    <Language Code="es-hn" InMinimumRequirementSet="true" />
+    <Language Code="es-mx" InMinimumRequirementSet="true" />
+    <Language Code="es-ni" InMinimumRequirementSet="true" />
+    <Language Code="es-pa" InMinimumRequirementSet="true" />
+    <Language Code="es-pe" InMinimumRequirementSet="true" />
+    <Language Code="es-pr" InMinimumRequirementSet="true" />
+    <Language Code="es-py" InMinimumRequirementSet="true" />
+    <Language Code="es-sv" InMinimumRequirementSet="true" />
+    <Language Code="es-us" InMinimumRequirementSet="true" />
+    <Language Code="es-uy" InMinimumRequirementSet="true" />
+    <Language Code="es-ve" InMinimumRequirementSet="true" />
+    <Language Code="et" InMinimumRequirementSet="true" />
+    <Language Code="et-ee" InMinimumRequirementSet="true" />
+    <Language Code="eu" InMinimumRequirementSet="true" />
+    <Language Code="eu-es" InMinimumRequirementSet="true" />
+    <Language Code="fa" InMinimumRequirementSet="true" />
+    <Language Code="fa-ir" InMinimumRequirementSet="true" />
+    <Language Code="fi" InMinimumRequirementSet="true" />
+    <Language Code="fi-fi" InMinimumRequirementSet="true" />
+    <Language Code="fil" InMinimumRequirementSet="true" />
+    <Language Code="fil-latn" InMinimumRequirementSet="true" />
+    <Language Code="fil-ph" InMinimumRequirementSet="true" />
+    <Language Code="fr" InMinimumRequirementSet="true" />
+    <Language Code="fr-011" InMinimumRequirementSet="true" />
+    <Language Code="fr-015" InMinimumRequirementSet="true" />
+    <Language Code="fr-021" InMinimumRequirementSet="true" />
+    <Language Code="fr-029" InMinimumRequirementSet="true" />
+    <Language Code="fr-155" InMinimumRequirementSet="true" />
+    <Language Code="fr-be" InMinimumRequirementSet="true" />
+    <Language Code="fr-ca" InMinimumRequirementSet="true" />
+    <Language Code="fr-cd" InMinimumRequirementSet="true" />
+    <Language Code="fr-ch" InMinimumRequirementSet="true" />
+    <Language Code="fr-ci" InMinimumRequirementSet="true" />
+    <Language Code="fr-cm" InMinimumRequirementSet="true" />
+    <Language Code="fr-fr" InMinimumRequirementSet="true" />
+    <Language Code="fr-ht" InMinimumRequirementSet="true" />
+    <Language Code="fr-lu" InMinimumRequirementSet="true" />
+    <Language Code="fr-ma" InMinimumRequirementSet="true" />
+    <Language Code="fr-mc" InMinimumRequirementSet="true" />
+    <Language Code="fr-ml" InMinimumRequirementSet="true" />
+    <Language Code="fr-re" InMinimumRequirementSet="true" />
+    <Language Code="frc-latn" InMinimumRequirementSet="true" />
+    <Language Code="frp-latn" InMinimumRequirementSet="true" />
+    <Language Code="ga" InMinimumRequirementSet="true" />
+    <Language Code="ga-ie" InMinimumRequirementSet="true" />
+    <Language Code="gd-gb" InMinimumRequirementSet="true" />
+    <Language Code="gd-latn" InMinimumRequirementSet="true" />
+    <Language Code="gl" InMinimumRequirementSet="true" />
+    <Language Code="gl-es" InMinimumRequirementSet="true" />
+    <Language Code="gu" InMinimumRequirementSet="true" />
+    <Language Code="gu-in" InMinimumRequirementSet="true" />
+    <Language Code="ha" InMinimumRequirementSet="true" />
+    <Language Code="ha-latn" InMinimumRequirementSet="true" />
+    <Language Code="ha-latn-ng" InMinimumRequirementSet="true" />
+    <Language Code="he" InMinimumRequirementSet="true" />
+    <Language Code="he-il" InMinimumRequirementSet="true" />
+    <Language Code="hi" InMinimumRequirementSet="true" />
+    <Language Code="hi-in" InMinimumRequirementSet="true" />
+    <Language Code="hr" InMinimumRequirementSet="true" />
+    <Language Code="hr-ba" InMinimumRequirementSet="true" />
+    <Language Code="hr-hr" InMinimumRequirementSet="true" />
+    <Language Code="hu" InMinimumRequirementSet="true" />
+    <Language Code="hu-hu" InMinimumRequirementSet="true" />
+    <Language Code="hy" InMinimumRequirementSet="true" />
+    <Language Code="hy-am" InMinimumRequirementSet="true" />
+    <Language Code="id" InMinimumRequirementSet="true" />
+    <Language Code="id-id" InMinimumRequirementSet="true" />
+    <Language Code="ig-latn" InMinimumRequirementSet="true" />
+    <Language Code="ig-ng" InMinimumRequirementSet="true" />
+    <Language Code="is" InMinimumRequirementSet="true" />
+    <Language Code="is-is" InMinimumRequirementSet="true" />
+    <Language Code="it" InMinimumRequirementSet="true" />
+    <Language Code="it-ch" InMinimumRequirementSet="true" />
+    <Language Code="it-it" InMinimumRequirementSet="true" />
+    <Language Code="iu-cans" InMinimumRequirementSet="true" />
+    <Language Code="iu-latn" InMinimumRequirementSet="true" />
+    <Language Code="iu-latn-ca" InMinimumRequirementSet="true" />
+    <Language Code="ja" InMinimumRequirementSet="true" />
+    <Language Code="ja-jp" InMinimumRequirementSet="true" />
+    <Language Code="ka" InMinimumRequirementSet="true" />
+    <Language Code="ka-ge" InMinimumRequirementSet="true" />
+    <Language Code="kk" InMinimumRequirementSet="true" />
+    <Language Code="kk-kz" InMinimumRequirementSet="true" />
+    <Language Code="km" InMinimumRequirementSet="true" />
+    <Language Code="km-kh" InMinimumRequirementSet="true" />
+    <Language Code="kn" InMinimumRequirementSet="true" />
+    <Language Code="kn-in" InMinimumRequirementSet="true" />
+    <Language Code="ko" InMinimumRequirementSet="true" />
+    <Language Code="ko-kr" InMinimumRequirementSet="true" />
+    <Language Code="kok" InMinimumRequirementSet="true" />
+    <Language Code="kok-in" InMinimumRequirementSet="true" />
+    <Language Code="ku-arab" InMinimumRequirementSet="true" />
+    <Language Code="ku-arab-iq" InMinimumRequirementSet="true" />
+    <Language Code="ky-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="ky-kg" InMinimumRequirementSet="true" />
+    <Language Code="lb" InMinimumRequirementSet="true" />
+    <Language Code="lb-lu" InMinimumRequirementSet="true" />
+    <Language Code="lo" InMinimumRequirementSet="true" />
+    <Language Code="lo-la" InMinimumRequirementSet="true" />
+    <Language Code="lt" InMinimumRequirementSet="true" />
+    <Language Code="lt-lt" InMinimumRequirementSet="true" />
+    <Language Code="lv" InMinimumRequirementSet="true" />
+    <Language Code="lv-lv" InMinimumRequirementSet="true" />
+    <Language Code="mi" InMinimumRequirementSet="true" />
+    <Language Code="mi-latn" InMinimumRequirementSet="true" />
+    <Language Code="mi-nz" InMinimumRequirementSet="true" />
+    <Language Code="mk" InMinimumRequirementSet="true" />
+    <Language Code="mk-mk" InMinimumRequirementSet="true" />
+    <Language Code="ml" InMinimumRequirementSet="true" />
+    <Language Code="ml-in" InMinimumRequirementSet="true" />
+    <Language Code="mn-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="mn-mn" InMinimumRequirementSet="true" />
+    <Language Code="mn-mong" InMinimumRequirementSet="true" />
+    <Language Code="mn-phag" InMinimumRequirementSet="true" />
+    <Language Code="mr" InMinimumRequirementSet="true" />
+    <Language Code="mr-in" InMinimumRequirementSet="true" />
+    <Language Code="ms" InMinimumRequirementSet="true" />
+    <Language Code="ms-bn" InMinimumRequirementSet="true" />
+    <Language Code="ms-my" InMinimumRequirementSet="true" />
+    <Language Code="mt" InMinimumRequirementSet="true" />
+    <Language Code="mt-mt" InMinimumRequirementSet="true" />
+    <Language Code="nb" InMinimumRequirementSet="true" />
+    <Language Code="nb-no" InMinimumRequirementSet="true" />
+    <Language Code="ne" InMinimumRequirementSet="true" />
+    <Language Code="ne-np" InMinimumRequirementSet="true" />
+    <Language Code="nl" InMinimumRequirementSet="true" />
+    <Language Code="nl-be" InMinimumRequirementSet="true" />
+    <Language Code="nl-nl" InMinimumRequirementSet="true" />
+    <Language Code="nn" InMinimumRequirementSet="true" />
+    <Language Code="nn-no" InMinimumRequirementSet="true" />
+    <Language Code="no" InMinimumRequirementSet="true" />
+    <Language Code="no-no" InMinimumRequirementSet="true" />
+    <Language Code="nso" InMinimumRequirementSet="true" />
+    <Language Code="nso-za" InMinimumRequirementSet="true" />
+    <Language Code="or" InMinimumRequirementSet="true" />
+    <Language Code="or-in" InMinimumRequirementSet="true" />
+    <Language Code="pa" InMinimumRequirementSet="true" />
+    <Language Code="pa-arab" InMinimumRequirementSet="true" />
+    <Language Code="pa-arab-pk" InMinimumRequirementSet="true" />
+    <Language Code="pa-deva" InMinimumRequirementSet="true" />
+    <Language Code="pa-in" InMinimumRequirementSet="true" />
+    <Language Code="pl" InMinimumRequirementSet="true" />
+    <Language Code="pl-pl" InMinimumRequirementSet="true" />
+    <Language Code="prs" InMinimumRequirementSet="true" />
+    <Language Code="prs-af" InMinimumRequirementSet="true" />
+    <Language Code="prs-arab" InMinimumRequirementSet="true" />
+    <Language Code="pt" InMinimumRequirementSet="true" />
+    <Language Code="pt-br" InMinimumRequirementSet="true" />
+    <Language Code="pt-pt" InMinimumRequirementSet="true" />
+    <Language Code="quc-latn" InMinimumRequirementSet="true" />
+    <Language Code="qut-gt" InMinimumRequirementSet="true" />
+    <Language Code="qut-latn" InMinimumRequirementSet="true" />
+    <Language Code="quz" InMinimumRequirementSet="true" />
+    <Language Code="quz-bo" InMinimumRequirementSet="true" />
+    <Language Code="quz-ec" InMinimumRequirementSet="true" />
+    <Language Code="quz-pe" InMinimumRequirementSet="true" />
+    <Language Code="ro" InMinimumRequirementSet="true" />
+    <Language Code="ro-ro" InMinimumRequirementSet="true" />
+    <Language Code="ru" InMinimumRequirementSet="true" />
+    <Language Code="ru-ru" InMinimumRequirementSet="true" />
+    <Language Code="rw" InMinimumRequirementSet="true" />
+    <Language Code="rw-rw" InMinimumRequirementSet="true" />
+    <Language Code="sd-arab" InMinimumRequirementSet="true" />
+    <Language Code="sd-arab-pk" InMinimumRequirementSet="true" />
+    <Language Code="sd-deva" InMinimumRequirementSet="true" />
+    <Language Code="si" InMinimumRequirementSet="true" />
+    <Language Code="si-lk" InMinimumRequirementSet="true" />
+    <Language Code="sk" InMinimumRequirementSet="true" />
+    <Language Code="sk-sk" InMinimumRequirementSet="true" />
+    <Language Code="sl" InMinimumRequirementSet="true" />
+    <Language Code="sl-si" InMinimumRequirementSet="true" />
+    <Language Code="sq" InMinimumRequirementSet="true" />
+    <Language Code="sq-al" InMinimumRequirementSet="true" />
+    <Language Code="sr" InMinimumRequirementSet="true" />
+    <Language Code="sr-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="sr-cyrl-ba" InMinimumRequirementSet="true" />
+    <Language Code="sr-cyrl-cs" InMinimumRequirementSet="true" />
+    <Language Code="sr-cyrl-me" InMinimumRequirementSet="true" />
+    <Language Code="sr-cyrl-rs" InMinimumRequirementSet="true" />
+    <Language Code="sr-latn" InMinimumRequirementSet="true" />
+    <Language Code="sr-latn-ba" InMinimumRequirementSet="true" />
+    <Language Code="sr-latn-cs" InMinimumRequirementSet="true" />
+    <Language Code="sr-latn-me" InMinimumRequirementSet="true" />
+    <Language Code="sr-latn-rs" InMinimumRequirementSet="true" />
+    <Language Code="sv" InMinimumRequirementSet="true" />
+    <Language Code="sv-fi" InMinimumRequirementSet="true" />
+    <Language Code="sv-se" InMinimumRequirementSet="true" />
+    <Language Code="sw" InMinimumRequirementSet="true" />
+    <Language Code="sw-ke" InMinimumRequirementSet="true" />
+    <Language Code="ta" InMinimumRequirementSet="true" />
+    <Language Code="ta-in" InMinimumRequirementSet="true" />
+    <Language Code="te" InMinimumRequirementSet="true" />
+    <Language Code="te-in" InMinimumRequirementSet="true" />
+    <Language Code="tg-arab" InMinimumRequirementSet="true" />
+    <Language Code="tg-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="tg-cyrl-tj" InMinimumRequirementSet="true" />
+    <Language Code="tg-latn" InMinimumRequirementSet="true" />
+    <Language Code="th" InMinimumRequirementSet="true" />
+    <Language Code="th-th" InMinimumRequirementSet="true" />
+    <Language Code="ti" InMinimumRequirementSet="true" />
+    <Language Code="ti-et" InMinimumRequirementSet="true" />
+    <Language Code="tk-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="tk-cyrl-tr" InMinimumRequirementSet="true" />
+    <Language Code="tk-latn" InMinimumRequirementSet="true" />
+    <Language Code="tk-latn-tr" InMinimumRequirementSet="true" />
+    <Language Code="tk-tm" InMinimumRequirementSet="true" />
+    <Language Code="tn" InMinimumRequirementSet="true" />
+    <Language Code="tn-bw" InMinimumRequirementSet="true" />
+    <Language Code="tn-za" InMinimumRequirementSet="true" />
+    <Language Code="tr" InMinimumRequirementSet="true" />
+    <Language Code="tr-tr" InMinimumRequirementSet="true" />
+    <Language Code="tt-arab" InMinimumRequirementSet="true" />
+    <Language Code="tt-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="tt-latn" InMinimumRequirementSet="true" />
+    <Language Code="tt-ru" InMinimumRequirementSet="true" />
+    <Language Code="ug-arab" InMinimumRequirementSet="true" />
+    <Language Code="ug-cn" InMinimumRequirementSet="true" />
+    <Language Code="ug-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="ug-latn" InMinimumRequirementSet="true" />
+    <Language Code="uk" InMinimumRequirementSet="true" />
+    <Language Code="uk-ua" InMinimumRequirementSet="true" />
+    <Language Code="ur" InMinimumRequirementSet="true" />
+    <Language Code="ur-pk" InMinimumRequirementSet="true" />
+    <Language Code="uz" InMinimumRequirementSet="true" />
+    <Language Code="uz-cyrl" InMinimumRequirementSet="true" />
+    <Language Code="uz-latn" InMinimumRequirementSet="true" />
+    <Language Code="uz-latn-uz" InMinimumRequirementSet="true" />
+    <Language Code="vi" InMinimumRequirementSet="true" />
+    <Language Code="vi-vn" InMinimumRequirementSet="true" />
+    <Language Code="wo" InMinimumRequirementSet="true" />
+    <Language Code="wo-sn" InMinimumRequirementSet="true" />
+    <Language Code="xh" InMinimumRequirementSet="true" />
+    <Language Code="xh-za" InMinimumRequirementSet="true" />
+    <Language Code="yo-latn" InMinimumRequirementSet="true" />
+    <Language Code="yo-ng" InMinimumRequirementSet="true" />
+    <Language Code="zh" InMinimumRequirementSet="true" />
+    <Language Code="zh-cn" InMinimumRequirementSet="true" />
+    <Language Code="zh-hans" InMinimumRequirementSet="true" />
+    <Language Code="zh-hans-cn" InMinimumRequirementSet="true" />
+    <Language Code="zh-hans-sg" InMinimumRequirementSet="true" />
+    <Language Code="zh-hant" InMinimumRequirementSet="true" />
+    <Language Code="zh-hant-hk" InMinimumRequirementSet="true" />
+    <Language Code="zh-hant-mo" InMinimumRequirementSet="true" />
+    <Language Code="zh-hant-tw" InMinimumRequirementSet="true" />
+    <Language Code="zh-hk" InMinimumRequirementSet="true" />
+    <Language Code="zh-mo" InMinimumRequirementSet="true" />
+    <Language Code="zh-sg" InMinimumRequirementSet="true" />
+    <Language Code="zh-tw" InMinimumRequirementSet="true" />
+    <Language Code="zu" InMinimumRequirementSet="true" />
+    <Language Code="zu-za" InMinimumRequirementSet="true" />
+  </SupportedLocales>
+  <ProductReservedInfo>
+    <MainPackageIdentityName>63967vsclient.presents-uwp</MainPackageIdentityName>
+    <ReservedNames>
+      <ReservedName>presents-uwp</ReservedName>
+    </ReservedNames>
+  </ProductReservedInfo>
+  <AccountPackageIdentityNames>
+    <MainPackageIdentityName>63967vsclient.aaa</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.2658707C5F2A4</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.asxe</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.App</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.17933E35BB175</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fc</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fdfrtf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ff</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ffc</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ffvt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fgef</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fannytest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fctft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fcvhgc</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fdddf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fe2u</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.frankmobileapp20160728</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.frfdr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.frfvtg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fthy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.fvfvfvff</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.gbghbnnhnhn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.Genji1st</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.gfvfg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.gghfhkfhk</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.gooapp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.grdht</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.gyhyhyhyhyy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.haha1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hbuygyugvgyug</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hdefhhr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hedufh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hellomycordova</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hhhh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hmgJ8io</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hnhnhn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.huijow</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hujCre</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.hyuhyu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.japs</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.japs-04</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JayshZumoTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jgjdgjg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jhkhkjhkjgj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ji</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JImAppaa</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JImCordova</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jimCrodovaaaaa</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jimli1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jimqqq</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jimUNiversalaaa</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jinjina</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jjjjj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JohnTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.js01</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JSDTPackage</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JSDT-app</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JSDT-appname</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.52765E0F8A825</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JSDT-Svet</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspalkoi</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.409563FEF3B89</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jsps01we</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.JSPSSunny</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jsps-009</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.613670E0CEC61</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsdfg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsfgh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsjik</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsko</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslmn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsljo</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslkj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslkjd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslkjh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslkji</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspslkjn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsloimj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsmnlk</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspso</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jsps-o</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsoi</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsolk</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsolki</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsopo</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspspoi</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jspsv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.jstemp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.4906694A04C3C</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.kljl</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.krtrtr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.llpmko</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.Lopreutieo</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.lukewestlarge</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.mbraudetest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.MDDTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.mikjio</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.mlte</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.MobileCenterTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.mstep</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.mtp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.MyTestAppkarelz</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.npackage01</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.npackage02</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.newcordova</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.NewCordovaTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.nj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.oiu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.oreoCSUwp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.oreoCSUWP2017</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pankajTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.partnerTestApp1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.partnerTestApp2013</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pdeapp11</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pdeapp6</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pdeapp8</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pdeapp9</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ppppp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ppx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.pyy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.q</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.qDW</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.Qiwack</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.QS</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.qswq</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.qwdwVg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.qwr1996</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.qwruiop</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rdfvy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ret</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rfvft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rf3cgf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rgd4</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rg5t45</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rgrgcvfgtc</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rhdtt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rrrss</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rrt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.rsferfctf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.s</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.52549E746825C</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.shu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sdr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sfvhygfyh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.s1111</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.saccv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sadasad</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.saefef</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.saewf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.saxhue</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sbhgvgxc</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.scdfv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.scduk</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sdcrr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sdcdb</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sddsd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sddvBVr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sde</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sdvrhy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sdwe</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.selectpoint</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sfcgvh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sfsfsf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sgvx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sgwud</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.shdiowedn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ssdfffd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ssdsdsdsdsdsd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.StreamInstall</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sum12</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.SunnyGuo</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.swh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxavft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxbhgVg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxcsqdwq</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxdde</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.sxsftf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.t6ur4u4</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.temp1amd64</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tempp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tempted</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tempts</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.test.amd64</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.TestCordovatuchen</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.testjs</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.TestPackageJSDT</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tgs</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ts</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tt5</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttamd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttdys</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttemp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttempt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttep</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttfir</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttmd64</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttn</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tttemp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.tttt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttttt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.ttyu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.1118362E2CA62</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.uio</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.UniversalWin10</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.uuki</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.UWPPushDemo</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.UWPService</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vcf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vdfyt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.v-danicl</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vdgyt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vfrdft</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vfvfcgvgv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vg2k</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vgyvgvgv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vhgvvyh</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vrfxs</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.VStest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.VSClientDemoApp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.VSClientStoreTest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.VSPhoneStoreApp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.VSWindowsStoreApp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.vvnvbchmbnmbncm</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.w2nkj</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wcsdvgv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wct</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wdsxed</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wdcf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wdq43t</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wedqDR</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wee</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wefcd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wewewewewe</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wewsasasa</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.winblueapp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.winblueappabhikum</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wqdese</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wqDWGV</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wrcrt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wscd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wsws</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wwp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wwrd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.46137D257D170</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.Wx1</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wxjReserve</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.wxjtest</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xhu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xcbhvf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xcdcdcd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xcsdfvrt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xddctrdtr</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xdfxdctgg</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xdrd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xscrf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsgy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsm</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsawvcgf</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsax22q2</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xssx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsxsx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xsxsxs</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xxt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xxtemp</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xxtt</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xxyy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xyy</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.xzcv</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.yjhwsad</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.yng</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.51678CBEAF35B</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.44982A151448E</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.1864067A5529F</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.zd</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.zasx</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.zbahhu</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.zcf001</MainPackageIdentityName>
+    <MainPackageIdentityName>63967vsclient.zxc1</MainPackageIdentityName>
+  </AccountPackageIdentityNames>
+  <PackageInfoList LandingUrl="https://developer.microsoft.com/dashboard/Application?appId=9MXS1ZRNWW75" />
+</StoreAssociation>
